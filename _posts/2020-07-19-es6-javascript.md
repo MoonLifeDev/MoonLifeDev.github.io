@@ -13,7 +13,7 @@ comments: true
 
 > 클라스를 쉽게 이해하자면 붕어빵을  만들기 위해 필요한 __제작틀(Template)__ 이라 생각하면 도움이 된다.<br>
 > 그리고 그 틀에 적절한 __instance of object(재료)__ 을 넣음으로서 슈크림, 피자, 팥 등의 붕어빵들이 탄생하게 된다.<br>
-> Class의 내부는 __fields와 methods__ 가 존재하고, 이들을 통해 __캡슐화__ 및 __상속과 다양성__이 발생한다.<br>
+> Class의 내부는 __fields와 methods__ 가 존재하고, 이들을 통해 __캡슐화__ 및 __상속과 다양성__ 이 발생한다.<br>
 
 ```javascript
 " use strict ";
