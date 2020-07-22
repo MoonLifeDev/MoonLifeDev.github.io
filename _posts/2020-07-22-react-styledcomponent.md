@@ -8,7 +8,7 @@ comments: true
 
 ### Styled-component는 컴포넌트 생성과 스타일링을 간편하게 작성하게 도와준다.
 
-- 컴포넌트 생성 및 외부 CSS로 스타일링 할 때
+- `컴포넌트` 생성 및 `외부 CSS`로 스타일링 할 때
 
 ```javascript
 /* CSS 파일 Import 해 준 모습 */
@@ -25,7 +25,7 @@ p {
 }
 ```
 
-- 스타일 컴포넌트 활용 할 때
+- `스타일 컴포넌트` 활용 할 때
 
 ```javascript
 /* Import Styled-components */
